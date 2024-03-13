@@ -2,7 +2,7 @@
 
 Documentation for the collection.
 
-Module source [https://github.com/melmorabity/ansible-](https://github.com/melmorabity/ansible-ftp)
+Module source https://github.com/melmorabity/ansible-ftp
 
 # ftp
 
