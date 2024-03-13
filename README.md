@@ -1,3 +1,3 @@
-# Ansible Collection - belghiti.utils
+# Ansible Collection - Ansible FTP module
 
 Documentation for the collection.
